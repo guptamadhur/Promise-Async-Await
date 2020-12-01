@@ -1,0 +1,24 @@
+{
+  "name": "promise-async-await",
+  "version": "1.0.0",
+  "description": "Promise Async Await -MG",
+  "main": "task1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guptamadhur/Promise-Async-Await.git"
+  },
+  "keywords": [
+    "Promise",
+    "Example"
+  ],
+  "author": "Madhur Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guptamadhur/Promise-Async-Await/issues"
+  },
+  "homepage": "https://github.com/guptamadhur/Promise-Async-Await#readme",
+  "dependencies": {}
+}
